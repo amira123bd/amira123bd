@@ -18,7 +18,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-### Full Stack Projects
 
 
 
